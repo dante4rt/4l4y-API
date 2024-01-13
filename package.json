@@ -1,6 +1,6 @@
 {
   "name": "4l4y-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that transforms input text with vowel repetition and random letter casing, and logs the result.",
   "main": "index.js",
   "scripts": {
