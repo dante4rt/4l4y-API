@@ -1,0 +1,25 @@
+{
+  "name": "4l4y-api",
+  "version": "1.0.0",
+  "description": "A package that transforms input text with vowel repetition and random letter casing, and logs the result.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dante4rt/4l4y-api.git"
+  },
+  "keywords": [
+    "4l4y",
+    "API",
+    "Text",
+    "Generator"
+  ],
+  "author": "Muhammad Ramadhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dante4rt/4l4y-api/issues"
+  },
+  "homepage": "https://github.com/dante4rt/4l4y-api#readme"
+}
