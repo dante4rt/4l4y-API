@@ -1,4 +1,4 @@
-# 4l4y-api
+# 4l4y-API
 
 A Node.js package that transforms input text with vowel repetition and random letter casing.
 
